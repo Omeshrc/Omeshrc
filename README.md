@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Omesh</h1>
 <h3 align="center">A passionate UI/UX Designer and Frontend Development Enthusiast</h3>
 
-- 🌱 I’m currently learning **React and Flutter** Technologies
+- 🌱 I’m currently learning **React, Flutter and Wordpress.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
